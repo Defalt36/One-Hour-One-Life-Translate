@@ -1,3 +1,0 @@
-﻿195.txt	;	Elhagyatott Nyúlüreg
-127.txt	;	Vályog
-238.txt	;	Vályogkemence
